@@ -1,4 +1,4 @@
-package com.learn.selenium_first;
+package com.learn.selenium;
 
 import org.testng.annotations.Test;
 import org.testng.annotations.BeforeTest;

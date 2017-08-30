@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.learn.selenium_first.Testng"/>
+      <class name="com.learn.selenium.Testng"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
